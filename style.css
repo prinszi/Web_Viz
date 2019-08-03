@@ -23,22 +23,23 @@ body {
 }
 
 .container-fluid {
-    margin-top: 45pt
+    margin-top: 45pt;
+    margin-bottom: 45pt;
+    margin-left: 0pt;
+    margin-right: 45pt
 
 }
 
 .col-lg-7 {
-    margin: 10pt;
+    margin: 20pt;
     background: white;
     padding: 25pt;
-    padding-bottom: -50pt
 }
 
 .col-lg-4 {
-    margin: 10pt;
+    margin: 20pt;
     background: white;
     padding: 25pt;
-    margin-bottom: 200pt
 }
 
 h2 {
@@ -51,16 +52,11 @@ h3 {
     color: teal
 }
 
-.img {
-    float:left
-}
-
 p {
-    margin-top:25pt
+    margin-top:15pt
 }
 
 h6 {
-    position: relative;
-    left: 43%
+    color: black;
+    text-align: center
 }
-
