@@ -42,6 +42,12 @@ body {
     padding: 25pt;
 }
 
+.col-12 {
+    margin: 20pt;
+    background: white;
+    padding: 25pt;
+}
+
 h2 {
     color: teal;
     padding-bottom: 10pt
