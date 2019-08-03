@@ -1,41 +1,44 @@
-h4 {
-    position: relative;
-    left: 80pt;
-    color: white;
+.navbar-custom .navbar-brand {
     background: teal;
-    padding: 10pt;
-    margin: -10pt
+    color: white;
+    position: relative;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    margin-left: 50pt;
+    padding-left: 10pt;
+    padding-right: 10pt
+}
+
+.navbar {
+    padding-top: 0pt;
+    padding-bottom: 0pt
 }
 
 body {
     background: rgb(228, 226, 226);
-    width: 100%
-}
-
-.nav-item {
-    padding-left: 5pt;
-    padding-right: 25pt
-
-}
-
-.container {
-    height: 100%
-    min-
-}
-
-.col-sm-7 {
-    margin-top: 25pt;
-    margin-left: 30pt;
-    margin-right: 25pt;
-    background: white;
+    width: 100%;
     padding: 25pt
 }
 
-.col-sm-4 {
-    margin-top: 25pt;
-    margin-right: 30pt;
+.container-fluid {
+    margin-top: 45pt
+
+}
+
+.col-lg-7 {
+    margin: 10pt;
     background: white;
-    padding: 25pt
+    padding: 25pt;
+    padding-bottom: -50pt
+}
+
+.col-lg-4 {
+    margin: 10pt;
+    background: white;
+    padding: 25pt;
+    margin-bottom: 200pt
 }
 
 h2 {
@@ -60,3 +63,4 @@ h6 {
     position: relative;
     left: 43%
 }
+
