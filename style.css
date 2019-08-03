@@ -55,3 +55,8 @@ h3 {
 p {
     margin-top:25pt
 }
+
+h6 {
+    position: relative;
+    left: 43%
+}
